@@ -1,0 +1,1 @@
+console.log("Agora você já está preparado para usar o git")
